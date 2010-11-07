@@ -1,0 +1,9 @@
+
+This is a set of examples of the new features that have been included with PHP 5.3 and higher.
+This includes:
+- namespacing
+- closures/anonymous functions
+- object oriented changes
+- SPL updates
+
+author: Chris Cornutt <enygma@phpdeveloper.org>
