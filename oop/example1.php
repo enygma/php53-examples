@@ -1,0 +1,5 @@
+<?php
+
+// Using __invoke
+
+?>
