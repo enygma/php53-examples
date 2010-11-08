@@ -7,3 +7,16 @@ This includes:
 - SPL updates
 
 author: Chris Cornutt <enygma@phpdeveloper.org>
+
+Original PHP 5.3 release announcement:
+http://php.net/releases/5_3_0.php
+
+List of deprecated features for PHP 5.3:
+http://php.net/manual/en/migration53.deprecated.php
+
+
+Things that require PHP 5.3
+----------------
+Lithium: 	http://lithify.me
+Symfony 2.0: 	http://symfony-reloaded.org/
+Doctrine: 	http://www.doctrine-project.org/documentation/2_0/en
