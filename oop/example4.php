@@ -1,7 +1,11 @@
 <?php
 
-// Using variable static calls
-
+/**
+ * Using variable static calls
+ *
+ * Just like you could call $className->$methodName()
+ * You can now do the same with static methods
+ */
 class MyClass
 {
 	public static function methodOne()

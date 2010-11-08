@@ -1,6 +1,10 @@
 <?php
 
-// Using the SplQueue from SPL
+/**
+ * Using the SplQueue from SPL
+ * 
+ * http://us3.php.net/manual/en/class.splqueue.php
+ */
 
 $queue = new SplQueue();
 

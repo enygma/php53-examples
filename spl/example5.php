@@ -1,6 +1,11 @@
 <?php
 
-// Using the SplPriorityQueue from SPL
+/**
+ * Using the SplPriorityQueue from SPL
+ *
+ * Creating a simple queue
+ * http://us3.php.net/manual/en/class.splpriorityqueue.php
+ */
 class MyQueue extends SplPriorityQueue
 {
 	public function compare($valueOne,$valueTwo)

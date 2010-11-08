@@ -1,7 +1,11 @@
 <?php
 
-// An example of late static binding
-
+/**
+ * An example of late static binding
+ *
+ * Late static binding allows the parent class to call one of its own
+ * methods even if called from a child.
+ */
 class pClass
 {
 	static public function funcOne()

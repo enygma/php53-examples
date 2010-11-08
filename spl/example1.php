@@ -1,6 +1,11 @@
 <?php
 
-// Using the SplFixedArray with SPL
+/**
+ * Using the SplFixedArray with SPL
+ *
+ * http://us3.php.net/manual/en/class.splfixedarray.php
+ */
+
 $categoriesArray = new SplFixedArray(4);
 
 $categoriesArray[3] = 'General';

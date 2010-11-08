@@ -1,6 +1,11 @@
 <?php
 
-// Using our other namespace
+/**
+ * Using our other namespace
+ * Pulls in two other files with different namespaces and calls each
+ *
+ * http://us3.php.net/manual/en/language.namespaces.php
+ */
 include('example2.php');
 include('example3.php');
 

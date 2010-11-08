@@ -1,6 +1,11 @@
 <?php
 
-// Using __invoke
+/**
+ * Using __invoke
+ * This new magic method allows a class to be called like a function
+ *
+ * http://www.php.net/manual/en/language.oop5.magic.php#language.oop5.magic.invoke
+ */
 class Blog
 {
 	public function __invoke($postTitle,$postContent)

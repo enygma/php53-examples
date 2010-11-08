@@ -5,8 +5,8 @@
  * SplMaxHeap is the same, but keeps the maximum on the top
  * SplMinHeap is the same, but keeps the minimum on the top
  *
+ * http://us3.php.net/manual/en/class.splheap.php
  */
-
 class MyHeap extends SplHeap
 {
 	// No methods defined
