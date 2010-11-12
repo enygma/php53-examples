@@ -6,6 +6,10 @@ This includes:
 - object oriented changes
 - SPL updates
 
+To use these examples, you can either include them into a page or you 
+can run them on the command line.
+
+
 author: Chris Cornutt <enygma@phpdeveloper.org>
 
 Original PHP 5.3 release announcement:
