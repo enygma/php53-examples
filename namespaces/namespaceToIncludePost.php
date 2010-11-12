@@ -8,4 +8,9 @@ function makePost($postContent)
 	echo __NAMESPACE__.' >> '.__METHOD__.': '.$postContent."\n";
 }
 
+function getConstant()
+{
+	return __NAMESPACE__;
+}
+
 ?>

@@ -6,8 +6,8 @@
  *
  * http://us3.php.net/manual/en/language.namespaces.php
  */
-include('example2.php');
-include('example3.php');
+include('namespaceToIncludePost.php');
+include('namespaceToIncludeArticle.php');
 
 $posttitle = 'This is my post title';
 $postContent = 'This is my post content';
